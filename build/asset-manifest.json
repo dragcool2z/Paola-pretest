@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//github.com/dragcool2z/Paola-fe-pretest/static/css/main.2cce8147.chunk.css",
+    "main.js": "//github.com/dragcool2z/Paola-fe-pretest/static/js/main.e200539f.chunk.js",
+    "main.js.map": "//github.com/dragcool2z/Paola-fe-pretest/static/js/main.e200539f.chunk.js.map",
+    "runtime~main.js": "//github.com/dragcool2z/Paola-fe-pretest/static/js/runtime~main.9b33a2a8.js",
+    "runtime~main.js.map": "//github.com/dragcool2z/Paola-fe-pretest/static/js/runtime~main.9b33a2a8.js.map",
+    "static/js/2.27c935f6.chunk.js": "//github.com/dragcool2z/Paola-fe-pretest/static/js/2.27c935f6.chunk.js",
+    "static/js/2.27c935f6.chunk.js.map": "//github.com/dragcool2z/Paola-fe-pretest/static/js/2.27c935f6.chunk.js.map",
+    "index.html": "//github.com/dragcool2z/Paola-fe-pretest/index.html",
+    "precache-manifest.87bcec8f3444132f9d51774f6751419b.js": "//github.com/dragcool2z/Paola-fe-pretest/precache-manifest.87bcec8f3444132f9d51774f6751419b.js",
+    "service-worker.js": "//github.com/dragcool2z/Paola-fe-pretest/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "//github.com/dragcool2z/Paola-fe-pretest/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "//github.com/dragcool2z/Paola-fe-pretest/static/media/logo.5d5d9eef.svg"
+  }
+}
